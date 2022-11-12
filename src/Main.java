@@ -68,6 +68,8 @@ public class Main {
             if (array[i] % 2 !=0) {
                 array[i]++;
             }
+
+
             System.out.print(array[i]+ " ,");
 
         }
